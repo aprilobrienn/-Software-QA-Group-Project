@@ -124,13 +124,14 @@ Spending too much time on small style issues can:
 - Frustrate developers  
 - Distract from more important problems  
 
----
+
 
 ### Approving without proper review
 
 Approving code without fully understanding it defeats the purpose of the process and increases the risk of defects.
 
 ---
+
 
 ### Lack of clear standards
 
