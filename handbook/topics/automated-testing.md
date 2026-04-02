@@ -58,10 +58,26 @@ This is well-suited for projects that are **large** or **require testing to be r
 
 ### Types of Automated Testing
 
-- ***Unit Testing***  
-- ***Integration Testing***  
-- ***API Testing***  
-- ***UI Testing***  
+Unit Testing:  
+Unit tests are a software testing method that can be combined with automated testing. Unit testing examines the smallest part of an application to ensure functionality. Sometimes, this includes scanning every line of code as a separate piece instead of a part of the whole application. While this can help prevent bugs, it limits the assessment of the overall solution.
+
+---
+
+Integration Testing:
+
+Integration tests check whether modules/subunits of your application are working. These can often be tested automatically. You also need to ensure that you test both expected and unexpected inputs.
+
+---
+
+API Testing:
+
+API testing involves testing the functionality, performance, reliability, and security of APIs. Instead of testing the user interface (UI) of an application, API testing directly interacts with the APIs by sending requests and validating responses.
+
+---
+
+UI Testing:
+
+UI testing involves interacting with the user interface to perform your tests. Tests include interacting with the application's user interface elements, such as buttons, menus, forms, dialog boxes, and other graphical components, to ensure that they behave as expected and meet the specified requirements.
 
 ---
 
@@ -78,9 +94,33 @@ This is well-suited for projects that are **large** or **require testing to be r
 7. **Reusability**  
 
 
+## When to Use Automated Testing
+
+Not everything should be automated, however, test cases with complex manual scenarios and extensive data requirements are prime candidates for automation. A test case can and should be automated if the test is:
+
+- **Repeatable.** The test must be one that can (and will) be repeated regularly. For instance, there is no point automating a test for a feature that is about to be deprecated  
+
+- **Determinant.** There has to be a clear right and wrong outcome for the test. In other words, it must be easy for a computer to decide whether the test failed or not  
+
+- **Repetitive or tedious.** As a rule, humans are very poor at repetitive tasks. Our minds wander or we get distracted. Automation testing is particularly advantageous for any test that involves repeatedly doing the same action, as it ensures consistent and accurate execution  
+
+- **Business-Critical.** If a test is absolutely critical, you should try your best to automate it and schedule it to run regularly. That way, you can be certain this test is always being carried out  
+
+---
+
+### Automated Testing vs Manual Testing
+
+A common misconception among those new to CI/CD is that automated testing negates the need for manual testing and for professional QA engineers.
+
+While CI/CD automation frees up some time for QA team members, it does not make them redundant. Instead of spending time on repetitive tasks, QA engineers can focus on defining test cases, writing automated tests, and applying their creativity and ingenuity to exploratory testing.
+
+There are a few types of tests that are hard to automate and are best to be done manually. These include tests that are constantly changing, once-off, or that are for features that are still evolving.
+
+Below is a table summarizing the fundamental differences between both approaches to help determine the most suitable one for your specific requirements:
+
 
 ## References
-
+-  https://www.jetbrains.com/teamcity/ci-cd-guide/automated-testing/#where-does-testing-fit-into-the-ci-cd-process
 - [Tech Target - A comprehensive test automation guide for IT teams](https://www.techtarget.com/searchsoftwarequality/definition/automated-software-testing)  
 - [Test Dev Lab - What Is Automated Testing and How Does It Work? (with Example)](https://www.testdevlab.com/blog/automated-testing)  
 - [Functionize - Automated testing](https://www.functionize.com/automated-testing)  
