@@ -136,3 +136,68 @@ Approving code without fully understanding it defeats the purpose of the process
 ### Lack of clear standards
 
 If the team does not agree on coding standards, reviews become inconsistent and can lead to unnecessary disagreements.
+
+### Code Review Workflow 
+1. A typical code review process looks like this: 
+
+2. Developer creates a pull request  
+
+3. Reviewer is assigned  
+
+4. Code is reviewed using a checklist  
+
+5. Feedback is given  
+
+6. Changes are made  
+
+7. Code is approved  
+
+8. Changes are merged into the main branch  
+
+### Common Themes from Research 
+
+Across the articles and discussions reviewed, several common points appeared. 
+
+### Code reviews are about more than finding bugs 
+
+They play a key role in improving code quality, maintainability, and consistency. They also help prevent future issues, not just fix current ones. 
+
+ 
+
+### Collaboration is a major benefit 
+
+Code reviews encourage communication and shared ownership of the codebase. This reduces reliance on individual developers and helps spread knowledge across the team. 
+
+ 
+
+### Poorly managed reviews can slow teams down 
+
+Many developers highlighted delays as a common problem. When reviews take too long or are not prioritised, they can become a bottleneck. 
+
+ 
+
+### Clear standards improve the process 
+
+Teams that define clear expectations for code reviews tend to have more efficient and consistent outcomes. 
+
+ 
+
+### Human factors matter 
+
+The tone and approach used in reviews can affect team morale. Reviews should be constructive and respectful, not overly critical. 
+
+### References 
+
+https://codeinstitute.net/global/blog/the-importance-of-code-reviews/  
+
+https://www.fintechweekly.com/magazine/articles/why-every-development-team-needs-a-code-review-strategy  
+
+https://www.browserstack.com/guide/code-review-benefits  
+
+https://www.reddit.com/r/ExperiencedDevs/comments/vcqh68/three_ways_to_explain_the_benefits_of_code/  
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1qxf5ws/code_review_taking_forever_because_everyones_busy/  
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1mo0q47/opinions_on_code_review/ 
+
+ 
