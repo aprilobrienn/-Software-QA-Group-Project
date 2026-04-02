@@ -77,11 +77,11 @@ This is well-suited for projects that are **large** or **require testing to be r
 6. **Scalability**  
 7. **Reusability**  
 
----
+
 
 ## References
 
 - [Tech Target - A comprehensive test automation guide for IT teams](https://www.techtarget.com/searchsoftwarequality/definition/automated-software-testing)  
 - [Test Dev Lab - What Is Automated Testing and How Does It Work? (with Example)](https://www.testdevlab.com/blog/automated-testing)  
 - [Functionize - Automated testing](https://www.functionize.com/automated-testing)  
-- [Smartbear - Automation Testing Guide](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)  
+- [Smartbear - Automation Testing Guide](https://smartbear.com/learn/automated-testing/what-is-automated-testing/) 
