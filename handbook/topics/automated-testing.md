@@ -6,7 +6,7 @@ This is well-suited for projects that are **large** or **require testing to be r
 
 ---
 
-## Best Practices / When To Use
+### Best Practices / When To Use
 
 - <ins>Plan your testing carefully.</ins> Make sure your test cases are clearly defined and well written. Test cases should be self-contained and easy to understand  
 
@@ -120,7 +120,7 @@ Below is a table summarizing the fundamental differences between both approaches
 
 
 ## References
--  https://www.jetbrains.com/teamcity/ci-cd-guide/automated-testing/#where-does-testing-fit-into-the-ci-cd-process
+-  [JetBrains - Where does testing fit into the CI/CD process?](https://www.jetbrains.com/teamcity/ci-cd-guide/automated-testing/#where-does-testing-fit-into-the-ci-cd-process)
 - [Tech Target - A comprehensive test automation guide for IT teams](https://www.techtarget.com/searchsoftwarequality/definition/automated-software-testing)  
 - [Test Dev Lab - What Is Automated Testing and How Does It Work? (with Example)](https://www.testdevlab.com/blog/automated-testing)  
 - [Functionize - Automated testing](https://www.functionize.com/automated-testing)  
