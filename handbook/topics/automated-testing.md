@@ -7,7 +7,6 @@ This is well-suited for projects that are **large** or **require testing to be r
 ---
 
 ### Best Practices / When To Use
-### Best Practices / When To Use
 
 - <ins>Plan your testing carefully.</ins> Make sure your test cases are clearly defined and well written. Test cases should be self-contained and easy to understand  
 
@@ -119,6 +118,7 @@ There are a few types of tests that are hard to automate and are best to be done
 
 Below is a table summarizing the fundamental differences between both approaches to help determine the most suitable one for your specific requirements:
 
+![Automated Testing vs Manual Testing](image2.png)
 
 ## References
 -  [JetBrains - Where does testing fit into the CI/CD process?](https://www.jetbrains.com/teamcity/ci-cd-guide/automated-testing/#where-does-testing-fit-into-the-ci-cd-process)
