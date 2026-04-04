@@ -68,3 +68,9 @@ The diagram above illustrates the Scrum estimation process, where a product back
 [World Of Agile - Agile Estimation With Planning Poker](https://worldofagile.com/blog/agile-estimations-with-planning-poker/)
 
 [Mountain Goat Software - Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
+
+[The Knowledge Academy - Scrum Estimation Techniques](https://www.theknowledgeacademy.com/blog/scrum-estimation-techniques/)
+
+[LogRocket - Planning Poker in Agile Estimation](https://blog.logrocket.com/product-management/planning-poker-agile-estimation-scrum/)
+
+[Easy Agile - Planning Poker Guide](https://www.easyagile.com/blog/planning-poker-agile)
