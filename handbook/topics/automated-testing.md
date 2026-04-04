@@ -7,6 +7,7 @@ This is well-suited for projects that are **large** or **require testing to be r
 ---
 
 ### Best Practices / When To Use
+### Best Practices / When To Use
 
 - <ins>Plan your testing carefully.</ins> Make sure your test cases are clearly defined and well written. Test cases should be self-contained and easy to understand  
 
